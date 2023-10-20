@@ -18,9 +18,11 @@ git clone https://github.com/Spring-Fest/Promweb.git
 
 ###How to create a new Branch
 
-git checkout <name_of_branch>  
+git branch <name_of_branch>  
 
-write doen the name of branch you want to create 
+write the the name of branch you want to create .After this step just move on to that branch by using the command 
+
+git checkout <branch_name>
 
 To work on any specific branch write the command in the git bash terminal
 List all branches
