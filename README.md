@@ -6,7 +6,30 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-##Befor running the npm start command
+##For start working on the project 
+
+Kindly clone the repository to your system 
+by writing the following command
+
+git clone https://github.com/Spring-Fest/Promweb.git
+
+To work on any specific branch write the command in the git bash terminal
+List all branches
+
+git branch -a 
+Checkout the branch that you want
+
+git checkout <name_of_branch>
+
+if you guys want to clone any particular branch of the repository and prevent cloning the other branches you can use the following command
+
+git clone -b branch_name --single-branch https://github.com/Spring-Fest/Promweb.git
+###Replace the branch_name with the branch that you want to clone and work on it
+
+
+
+
+##Before running the npm start command
 write npm install in the root directory of the project to download all the packages.
 The node _modules packges has not been uploaded in this repository
 
