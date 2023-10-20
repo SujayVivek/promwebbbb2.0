@@ -24,6 +24,7 @@ git checkout <name_of_branch>
 if you guys want to clone any particular branch of the repository and prevent cloning the other branches you can use the following command
 
 git clone -b branch_name --single-branch https://github.com/Spring-Fest/Promweb.git
+
 ###Replace the branch_name with the branch that you want to clone and work on it
 
 
