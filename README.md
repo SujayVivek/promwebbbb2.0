@@ -17,6 +17,7 @@ To work on any specific branch write the command in the git bash terminal
 List all branches
 
 git branch -a 
+
 Checkout the branch that you want
 
 git checkout <name_of_branch>
