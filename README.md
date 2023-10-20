@@ -1,3 +1,5 @@
+Everyone push and pull regularly for those who are working on the same part of the repository
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
